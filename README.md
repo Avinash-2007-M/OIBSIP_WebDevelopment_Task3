@@ -27,4 +27,4 @@ A functional and responsive temperature converter tool that allows users to conv
 ![Temperature Converter Screenshot](./temperature-preview.png)
 
 ### 🔹 Live Demo:
-[GitHub Pages Link (if deployed)](https://github.com/Avinash-2007-M/OIBSIP_WebDevelopment_Task3.git)
+[GitHub Pages Link](https://github.com/Avinash-2007-M/OIBSIP_WebDevelopment_Task3.git)
